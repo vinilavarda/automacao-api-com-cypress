@@ -1,0 +1,19 @@
+{
+  "dadosValidos": {
+    "product_id": 22,
+    "reviewer": "John Doe",
+    "reviewer_email": "john.doe@example.com",
+    "rating": 5
+  },
+
+  "dadosEditados": {
+    "product_id": 22,
+    "reviewer": "Joana Dark",
+    "reviewer_email": "joana.dark@example.com",
+    "rating": 3
+  },
+
+  "dadosDeletar": {
+    "force": true
+  } 
+}
